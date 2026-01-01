@@ -1,5 +1,5 @@
 🚀 Deploy Your Website on Vercel (Beginner Guide)
-📌 Project Purpose
+📌 Project Purpose for Youtube Video
 
 Demonstrate how to deploy a website on Vercel
 
